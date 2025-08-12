@@ -82,7 +82,22 @@ nav a:hover {
 
 .menu h2 {
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.Photos {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.Photos img {
+    width: 150px;
+    height: 200px; 
+}
+
+.Labels {
+    text-align: center;
 }
 
 .about {
