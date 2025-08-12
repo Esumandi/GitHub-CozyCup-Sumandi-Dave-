@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #fff;
+    background-color: #f2efee;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
@@ -46,9 +46,9 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    background-image: url('img/logo.png');
     background-size: cover;
-    color: white;
+    color: black;
 }
 
 .hero h1 {
@@ -77,6 +77,7 @@ nav a:hover {
 .menu {
     padding: 100px 0;
     text-align: center;
+    background-color: #cbbd93;
 }
 
 .menu h2 {
@@ -87,7 +88,7 @@ nav a:hover {
 .about {
     padding: 100px 0;
     text-align: center;
-    background-color: #ede4d6;
+    background-color: #d0bda8;
 }
 
 .about h2 {
@@ -124,3 +125,17 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+#home {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #cd853f;
+
+
+    color: white;
+}
+
+
+
+
+
