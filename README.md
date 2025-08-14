@@ -3,15 +3,25 @@
 _A short description of your project._
 
 ## Authors
-- **Eugene Sumandi**  
-- **[Partner Name]**
+- **Eugene Sumandi**
+<img src="img\ES.jpg" alt="Photo1" width="200" style="border-radius: 50%;">
+<img src="img\\Fb.png" alt="Photo2" width="30" style="border-radius: 50%;"><p>https://www.facebook.com/eugene.sumandi.2005</p>
+<img src="img\\GH.png" alt="Photo2" width="30" style="border-radius: 50%;"><p>https://github.com/Esumandi</p>
+
+- **Joel B. Dave**
+<img src="img\JBD.jpg" alt="Photo1" width="200" style="border-radius: 50%;">
+<img src="img\\Fb.png" alt="Photo2" width="30" style="border-radius: 50%;"><p>https://www.facebook.com/joel.dave.41/</p>
+<img src="img\\GH.png" alt="Photo2" width="30" style="border-radius: 50%;"><p>https://github.com/JDAB3900</p>
 
 ---
 
 ## Table of Contents
-1. [About the Project](#about-the-project)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
+- [Project Title](#project-title)
+  - [Authors](#authors)
+  - [Table of Contents](#table-of-contents)
+  - [About the Project](#about-the-project)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
 
 ---
 
@@ -32,6 +42,4 @@ Describe:
 
 ## Screenshots
 
-- Screenshot
-- Screenshot
-- Screenshot
+<img src="img\Screenshot1.jpg" alt="Photo1" width="400" height="500">
